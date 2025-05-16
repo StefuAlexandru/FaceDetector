@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-23\bin\javac" -classpath src; SVM\Main.java >erori.txt 2>&1

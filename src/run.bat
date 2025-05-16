@@ -1,0 +1,1 @@
+java -Xmx4096m -classpath SVM; SVM.Main >log.txt 2>&1

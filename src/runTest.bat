@@ -1,0 +1,1 @@
+java -Xmx4096m -classpath Utils; Utils.SVMTester "C:\Users\Alex\Desktop\OldThings\Anul3\Java\Proiect_AI\src\test1.jpg" >log.txt 2>&1

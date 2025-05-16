@@ -1,0 +1,338 @@
+Loaded model for user: alex
+Loaded model for user: gramada
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 160, 64 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 160, 64 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Detected head at: 96, 32 with scale: 0.7000000000000001
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Detected head at: 192, 64 with scale: 1.0
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 32 with scale: 1.0
+Detected head at: 192, 64 with scale: 1.0
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 192, 64 with scale: 1.0
+Scaled image size: 288x216
+Detected head at: 160, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Detected head at: 0, 32 with scale: 0.9
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 0, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 0, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 0, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 160, 64 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Detected head at: 96, 32 with scale: 0.7000000000000001
+Scaled image size: 192x144
+Scaled image size: 320x240
+Detected head at: 160, 64 with scale: 1.0
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 64 with scale: 0.8
+Scaled image size: 224x168
+Detected head at: 96, 32 with scale: 0.7000000000000001
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Scaled image size: 256x192
+Scaled image size: 224x168
+Scaled image size: 192x144
+Scaled image size: 320x240
+Scaled image size: 288x216
+Detected head at: 128, 64 with scale: 0.9
+Scaled image size: 256x192
+Detected head at: 128, 32 with scale: 0.8
+Scaled image size: 224x168
+Detected head at: 96, 32 with scale: 0.7000000000000001
+Scaled image size: 192x144
+^C
